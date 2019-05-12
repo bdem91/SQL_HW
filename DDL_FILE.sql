@@ -14,7 +14,7 @@ To_Date date
 
 
 CREATE TABLE dept_employees(
-Emp_No int,
+Emp_Num int,
 Dept_No varchar(6),
 From_Date date,
 To_Date date
